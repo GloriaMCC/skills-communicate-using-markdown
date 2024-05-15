@@ -16,3 +16,7 @@ var myVar = "Hello, world!";
 ``` python
 myVar = "Hello, world!"
 ```
+## Add task list
+- [x] Turn on GitHub Pages
+- [ ] Outline my portafolio
+- [x] Introduce myself to the world
